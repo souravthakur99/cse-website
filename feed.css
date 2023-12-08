@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-size: 55px;
+}
+p{
+    margin-left: 25px;
+}
+
+div{
+font-size: 25px;
+}
+input{
+    font-size: 15px;
+    border:2px solid black;
+    background-color :whitesmoke;
+    color:black;
+    
+
+}
+body{
+background-image: url("https://c8.alamy.com/comp/2C1EKN4/luxury-background-gold-leaves-light-pink-colors-effect-overlay-pink-gold-pink-gray-splash-high-quality-print-2C1EKN4.jpg");
+
+}
+button{
+    padding:7px;
+    margin-left: 650px;
+    margin-top:50px;
+}
+textarea{
+    background-color: whitesmoke;
+}
